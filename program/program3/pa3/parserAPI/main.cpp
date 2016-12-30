@@ -40,9 +40,9 @@ int main(int argc, char **argv)
                 parser.gNumNets(), parser.gNetList());
 
     router.constructGraph();
-
+    
     // TEST //
-    router.printNodes();
+    //router.printNodes();
 
 
 
